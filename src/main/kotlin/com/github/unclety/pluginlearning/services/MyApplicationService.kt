@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.unclety.pluginlearning.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.unclety.pluginlearning.MyBundle
 
 class MyApplicationService {
 
